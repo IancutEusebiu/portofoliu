@@ -1,0 +1,101 @@
+.contact{
+    font-size: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 70px;
+}
+
+.contact h3 {
+  color: #3e497a;
+}
+.contact h1 {
+    color: #3e497a;
+  }
+  
+.contact .list {
+    border: 1px solid black;
+    list-style:square;
+    width: 60%;
+    box-shadow: 5px 10px 5px   #888888;
+   
+  }
+  
+.contact .list .item{
+    position: relative;
+}
+.contact .list svg{
+  width: 50px;
+  height: 40px;
+  position: absolute;
+  bottom: 0px;
+  color:var(--background)
+}
+ 
+ 
+@media only screen and (max-width: 750px) {
+    .contact {
+        font-size: 20px;
+    }
+}
+
+input[type=text], input[type=email],select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 60px;
+}
+
+.form {
+  width: 80%;
+  border-radius: 5px;
+  background-color: var(--background);
+  padding: 20px;
+   
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 60px;
+}
+.form label{
+  color: var(--text-color);
+}
+.form h2{
+  text-align: center;
+  color:var(--text-color);
+}
+.form p{
+  color: #04AA6D;
+}
+
