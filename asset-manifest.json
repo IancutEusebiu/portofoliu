@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portofoliu/static/css/main.51de390a.css",
+    "main.js": "/portofoliu/static/js/main.719e0beb.js",
+    "static/js/787.6ba766ee.chunk.js": "/portofoliu/static/js/787.6ba766ee.chunk.js",
+    "static/media/xand0.jpg": "/portofoliu/static/media/xand0.5e84e9755a7295099e7a.jpg",
+    "static/media/shop.jpg": "/portofoliu/static/media/shop.d124b7494c08c6755e57.jpg",
+    "static/media/rentCar.jpg": "/portofoliu/static/media/rentCar.71bdae6406c1dfbc5627.jpg",
+    "static/media/arduino_interface.jpg": "/portofoliu/static/media/arduino_interface.1fa857a057da7a62dfc4.jpg",
+    "static/media/prof.png": "/portofoliu/static/media/prof.97ed571982df105737b3.png",
+    "static/media/calculator.jpg": "/portofoliu/static/media/calculator.9a98e7af66e1ff89af90.jpg",
+    "index.html": "/portofoliu/index.html",
+    "main.51de390a.css.map": "/portofoliu/static/css/main.51de390a.css.map",
+    "main.719e0beb.js.map": "/portofoliu/static/js/main.719e0beb.js.map",
+    "787.6ba766ee.chunk.js.map": "/portofoliu/static/js/787.6ba766ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51de390a.css",
+    "static/js/main.719e0beb.js"
+  ]
+}
