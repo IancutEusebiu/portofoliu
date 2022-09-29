@@ -1,7 +1,6 @@
-{
+{ "homepage": "https://IancutEusebiu.github.io/portofoliu",
   "name": "portofoliu",
   "version": "0.1.0",
-  "homepage": "https://IancutEusebiu.github.io/Portofolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
