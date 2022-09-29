@@ -1,4 +1,5 @@
-{ "homepage": "https://IancutEusebiu.github.io/portofoliu",
+{ 
+  "homepage": "https://IancutEusebiu.github.io/portofoliu",
   "name": "portofoliu",
   "version": "0.1.0",
   "private": true,
